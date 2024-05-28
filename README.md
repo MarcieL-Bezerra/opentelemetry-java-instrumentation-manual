@@ -25,3 +25,7 @@ docker run -p 4317:4317 -p 4318:4318 --rm -v $(pwd)/collector-config.yaml:/etc/o
 
 ## 3 - Rode o App java-favorite
 Use o maven para buildar ou se preferir rode diretamente na sua IDE:
+
+## Créditos e fonte de Estudo:
+
+https://github.com/davidgeorgehope/java-favorite/tree/main
